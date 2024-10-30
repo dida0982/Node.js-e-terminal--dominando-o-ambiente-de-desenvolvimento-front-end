@@ -19,6 +19,7 @@ Para tirar o máximo proveito deste curso, é importante ter uma boa base em HTM
 
 
 Conclusão do Curso
+
 Neste projeto, tive a oportunidade de revisar e reforçar conceitos fundamentais de desenvolvimento front-end com Node.js. Trabalhei com o package.json para gerenciar dependências e scripts de automação, além de relembrar o papel do Node e do NPM na criação e manutenção de projetos. Também reforcei a diferença entre pacotes locais e globais, bem como entre dependências de desenvolvimento e de produção.
 
 Ao longo do curso, usei algumas ferramentas que facilitaram o desenvolvimento:
